@@ -1,0 +1,124 @@
+body{
+    background-image: url("bgim.jpg");
+}
+#mainhead{
+    color: antiquewhite;
+    font-size: 40px;
+}
+
+#hea{
+    margin-left: 190px;
+    height: 80px;
+    border:1px ridge #33BBC5;
+
+}
+#navbuttons{
+    text-align: right;
+    margin-left: 640px;
+    margin-top: -10px;
+    justify-content: space-between;
+}
+button{
+    font-size: 25px;
+    color: aliceblue;
+    border-radius: 15px;
+    background-color:rgb(32, 148, 184);
+    border-color: #33BBC5;
+    font-family:'Times New Roman', Times, serif;
+}
+#divbord{
+    border: 2px ridge #33BBC5;
+    height: 120px;
+}
+#bstyle{
+    background-color: rgb(32, 148, 184);
+    border-radius: 20px;
+    border:1px ridge blanchedalmond;
+    font-family:'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: none;
+    size: 40px;
+    display: inline-block;
+}
+button:hover{
+    border:4px ridge #461959;
+    color: #461959;
+}
+#bstyle:hover{
+    border-color: #461959;
+    border: 6px ridge #461959;
+    color: #461959;
+}
+#abtskill{
+    font-size: 18px;
+    border:2px solid blueviolet;
+    padding-left:5%;  padding-right: 5%; margin-right: 75%;
+}
+#legen{
+    font-size: 20px; 
+    color: aliceblue;
+}
+#abtme{
+    font-size: 20px;  
+    border:2px solid blueviolet;
+    padding-left:5%;    padding-right:5%;
+}
+#abtstre{
+    font-size: 18px;
+    border:2px solid blueviolet;
+    margin-left: 70%;     margin-top: -29%;     padding-right: 5%;     padding-left: 3%;
+}
+#abthob{
+    font-size: 18px;
+    border:2px solid blueviolet;
+    margin-left: 70%;
+}
+#wrkim{
+    border:2px solid blueviolet;
+    margin-left: 36%;
+    margin-top:-343px;
+
+}
+#projpar{
+    font-size: 17px;
+    border: 2px ridge #33BBC5;
+    margin-right: 50%;
+    padding-left: 2%;
+}
+#projpar1{
+    font-size: 18px;
+    border: 2px ridge #33BBC5;
+    margin-left: 51%;
+    margin-top: -52.5%;
+    padding-left: 3%;
+    height: 5%;
+}
+#projimg1{
+    margin-left: 30%;
+    padding-left:0%;
+    padding-top: -200px; 
+}
+#projimg2{
+    margin-right:30%;
+    padding-left:40%;
+}
+#submit{
+    font-size:20px;
+
+}
+#submit:hover{
+   
+    border:4px ridge blueviolet;
+    color: #461959;
+}
+#formac{
+    border:20px ridge #33BBC5;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-top: 5%;
+}
+#cerhea{
+    font-size: 20px; 
+    color: aliceblue;
+}
